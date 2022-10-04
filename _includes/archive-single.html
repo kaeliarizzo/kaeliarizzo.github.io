@@ -22,6 +22,7 @@
           {% endif %}
         </h2> 
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        <a href="{ post.header.url }" class="btn btn--primary">Full Text</a>
       </div>
       <div class="figure_column">
         <div class="archive__item-teaser">

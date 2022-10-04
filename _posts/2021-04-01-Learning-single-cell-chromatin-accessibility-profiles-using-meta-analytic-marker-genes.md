@@ -4,6 +4,7 @@ excerpt: "bioRxiv, 2021"
 layout: single
 header:
   teaser: /assets/images/atac.png
+  url: https://www.biorxiv.org/content/10.1101/2021.04.01.438068v2
 ---
 
 ![Image of scATAC paper.](/assets/images/atac.png)
