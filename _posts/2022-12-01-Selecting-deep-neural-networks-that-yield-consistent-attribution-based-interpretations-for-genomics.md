@@ -3,7 +3,7 @@ title:  "Selecting deep neural networks that yield consistent attribution-based 
 excerpt: "MLCB, 2022"
 layout: single
 header:
-  teaser: /assets/images/atac.png
+  teaser: /assets/images/select.png
   url: https://proceedings.mlr.press/v200/majdandzic22a/majdandzic22a.pdf
 ---
 
