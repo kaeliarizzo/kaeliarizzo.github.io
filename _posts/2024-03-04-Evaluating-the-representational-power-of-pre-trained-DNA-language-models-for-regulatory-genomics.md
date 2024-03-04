@@ -4,7 +4,7 @@ excerpt: "BioRxiv, 2024"
 layout: single
 header:
   teaser: /assets/images/gLM.png
-  url: ./
+  url: https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1
 ---
 
 ![Image from news and views.](/assets/images/gLM.png)
@@ -21,4 +21,4 @@ Our findings suggest that current gLMs do not offer substantial advantages over 
 that use one-hot encoded sequences. This work highlights a major limitation with current gLMs, raising potential issues in
 conventional pre-training strategies for the non-coding genome.
 
-[Full Text](./)
+[Full Text](https://www.biorxiv.org/content/10.1101/2024.02.29.582810v1.full.pdf)
