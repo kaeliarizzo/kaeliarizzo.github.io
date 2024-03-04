@@ -3,11 +3,11 @@ title:  "Evaluating the representational power of pre-trainedDNA language models
 excerpt: "BioRxiv, 2024"
 layout: single
 header:
-  teaser: /assets/images/gLM.pdf
+  teaser: /assets/images/gLM.png
   url: ./
 ---
 
-![Image from news and views.](/assets/images/gLM.pdf)
+![Image from news and views.](/assets/images/gLM.png)
 
 ## Abstract:
 The emergence of genomic language models (gLMs) offers an unsupervised approach to learn a wide diversity of cis-regulatory
