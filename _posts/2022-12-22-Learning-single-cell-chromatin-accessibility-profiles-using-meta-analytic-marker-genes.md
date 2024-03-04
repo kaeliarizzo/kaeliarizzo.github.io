@@ -1,10 +1,10 @@
 ---
 title:  "Learning single-cell chromatin accessibility profiles using meta-analytic marker genes"
-excerpt: "bioRxiv, 2021"
+excerpt: "Briefings in Bioinformatics, 2022"
 layout: single
 header:
   teaser: /assets/images/atac.png
-  url: https://www.biorxiv.org/content/10.1101/2021.04.01.438068v2
+  url: https://academic.oup.com/bib/article/24/1/bbac541/6957249
 ---
 
 ![Image of scATAC paper.](/assets/images/atac.png)
@@ -15,4 +15,4 @@ Single-cell Assay for Transposase Accessible Chromatin using sequencing (scATAC-
 
 In this study, we perform a systematic comparison of 7 scATAC-seq datasets of mouse brain to benchmark the efficacy of neuronal cell-type annotation from gene sets. We find that redundant marker genes give a dramatic improvement for a sparse scATAC-seq annotation across the data collected from different studies. Interestingly, simple aggregation of such marker genes achieves performance comparable or higher than that of machine-learning classifiers, suggesting its potential for downstream applications. Based on our results, we reannotated all scATAC-seq data for detailed cell types using robust marker genes. Their meta scATAC-seq profiles are publicly available at https://gillisweb.cshl.edu/Meta_scATAC. Furthermore, we trained a deep neural network to predict chromatin accessibility from only DNA sequence and identified key motifs enriched for each neuronal subtype. Those predicted profiles are visualized together in our database as a valuable resource to explore cell-type specific epigenetic regulation in a sequence-dependent and -independent manner.
 
-[Full Text](https://www.biorxiv.org/content/10.1101/2021.04.01.438068v2)
+[Full Text](https://academic.oup.com/bib/article/24/1/bbac541/6957249)
