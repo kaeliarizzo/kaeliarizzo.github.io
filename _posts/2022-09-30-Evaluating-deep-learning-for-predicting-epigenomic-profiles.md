@@ -1,8 +1,7 @@
 ---
-title:  "Ensemble distillation with stochastic teachers via online moment estimation"
-excerpt: "In Progress"
+title:  "Ensemble distillation with stochastic teachers via online moment estimation -- In Progress"
+excerpt: "In Progress, 2025"
 layout: single
-header:
 ---
 
 ## Abstract:
