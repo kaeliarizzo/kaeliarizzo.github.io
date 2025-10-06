@@ -110,12 +110,12 @@ author:
   location         : "New York, US"
   links:
 
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/YOUR_TWITTER_HANDLE"
+    #- label: "Google Scholar"
+      #icon: "fab fa-fw fa-google"
+      #url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/YOUR_TWITTER_HANDLE"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kaeliarizzo"

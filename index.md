@@ -25,6 +25,6 @@ in-silico mutagenesis) using distributed/parallel computing on HPC systems.
 - Programming Languages: Python, Shell scripting, Java, MATLAB, and C.
 - ML & Data Science: PyTorch, TensorFlow, Weights & Biases, Pandas, NumPy, SciPy,
 Matplotlib, Jupyter.
-- Computing Environment: Linux, Git/GitHub, HPC clusters (UGE, Slurm), Conda, uv.
+- Compute Environment: Linux, Git/GitHub, HPC clusters (UGE, Slurm), Conda, uv.
 - Bioinformatics Tools: Minimap2, Samtools, Bwa, and Busco.
 
