@@ -20,7 +20,7 @@ title                    : "Kaeli Rizzo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kaeli Rizzo"
-description              : ""
+description              : "Ph.D. candidate at Cold Spring Harbor Laboratory"
 url                      : "https://kaeliarizzo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kaeliarizzo/kaeliarizzo.github.io"
