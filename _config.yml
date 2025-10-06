@@ -121,7 +121,7 @@ author:
       url: "https://github.com/kaeliarizzo"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/YOUR_ORCID_ID"
+      url: "https://orcid.org/0000-0001-5731-2046"
     - label: "Email"
       icon: "fas fa-light fa-envelope"
       url: "mailto:krizzo@cshl.edu"
