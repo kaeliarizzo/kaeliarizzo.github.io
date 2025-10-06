@@ -21,7 +21,7 @@ This website contains brief descriptions of the projects I've been working on an
 ## Technical Skills
 
 Experienced with model development, finetuning, and interpretation (attribution analysis,
-in-silico mutagenesis) using distributed/parallel computing on HPC systems.
+in-silico mutagenesis) using distributed training on HPC systems.
 - Programming Languages: Python, Shell scripting, Java, MATLAB, and C.
 - ML & Data Science: PyTorch, TensorFlow, Weights & Biases, Pandas, NumPy, SciPy,
 Matplotlib, Jupyter.
