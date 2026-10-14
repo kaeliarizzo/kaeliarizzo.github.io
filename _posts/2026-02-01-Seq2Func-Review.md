@@ -1,6 +1,6 @@
 ---
 title: "Toward Interpretable and Generalizable AI in Regulatory Genomics"
-excerpt: "arXiv, 2026"
+excerpt: "Accepted at Nature Genetics"
 layout: single
 header:
   url: https://arxiv.org/abs/2602.01230
