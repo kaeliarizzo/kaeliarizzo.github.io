@@ -6,7 +6,9 @@ header:
   url: https://osf.io/preprints/metaarxiv/duymx_v1
 ---
 
-Kaeli Rizzo, Caroline M. Weisman, Richard Sever, Peter Koo
+Kaeli Rizzo\*, Caroline M. Weisman\*, Richard Sever, Peter K. Koo
+
+\*Equal contribution
 
 ## Abstract:
 
