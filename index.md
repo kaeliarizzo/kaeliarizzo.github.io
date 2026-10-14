@@ -8,7 +8,7 @@ title: ""
 
 I am a Ph.D. candidate in Computational Biology at Cold Spring Harbor Laboratory in New York, working in the [Koo Lab](https://koolab.cshl.edu/). My research focuses on improving the reliability, efficiency, and interpretability of biological sequence models through uncertainty estimation, knowledge distillation, and architectural optimization.
 
-This website contains brief descriptions of the projects I've been working on and my [resume](/assets/files/CV_2025.pdf). 
+This website contains brief descriptions of the projects I've been working on and my [resume](/assets/files/CV_2026.pdf). 
 
 
 ## Interests
