@@ -20,11 +20,10 @@ This website contains brief descriptions of the projects I've been working on an
 
 ## Technical Skills
 
-Experienced with model development, fine-tuning, and interpretation (attribution analysis,
-in-silico mutagenesis) using distributed training on HPC systems.
+Experience developing, fine-tuning, and interpreting biological sequence models, with distributed training across clusters and cloud infrastructure.
 - Programming Languages: Python, Shell scripting, Java, MATLAB, and C.
 - ML & Data Science: PyTorch, TensorFlow, Weights & Biases, Pandas, NumPy, SciPy,
 Matplotlib, Jupyter.
-- Compute Environment: Linux, Git/GitHub, HPC clusters (UGE, Slurm), Conda, uv.
+- Systems & Compute: Linux, Git/GitHub, SLURM, UGE, AWS, Run:AI, Conda, uv.
 - Bioinformatics Tools: Minimap2, Samtools, Bwa, and Busco.
 
